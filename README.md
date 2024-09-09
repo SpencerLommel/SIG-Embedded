@@ -10,7 +10,9 @@ Code Repository for all NDSU ACM SIG-Embedded projects!
     <p align="center">
   <img src="https://m.media-amazon.com/images/I/71iebL6Km5L._AC_SX679_.jpg?raw=true" alt="PlatformIO Logo" width="50%" height="50%"/>
 </p>
-- We will be the [PlatformIO](https://platformio.org/) VS Code extension for setting up our development environment. <br />
+
+- We will be the [PlatformIO](https://platformio.org/) VS Code extension for setting up our development environment.
+  
   <p align="center">
   <img src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png?raw=true" alt="PlatformIO Logo"/>
 </p>
